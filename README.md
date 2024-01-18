@@ -5,7 +5,7 @@ Welcome to my Tableau-BI-Repo! This repository houses a collection of Tableau pr
 
 
 
-NETFLIX DASHBOARD: 
+1. NETFLIX DASHBOARD: 
 
 
 ![Netflix Dashboard](https://github.com/abhinav14kr/Tableau-BI-Repo/assets/139970672/4e31127c-37ad-49dc-af2e-d29782fe52e6)
@@ -14,7 +14,11 @@ NETFLIX DASHBOARD:
 
 
 
-COVID TRACKER: 
+
+
+
+
+2. COVID TRACKER: 
 
 The covid 19 global data for the year 2020 is an often used dataset for developing a Tableau Dashboard, yet I used it to as I learnt a lot through the process. The data is downloaded from https://data.world/ as a CSV file.
 
