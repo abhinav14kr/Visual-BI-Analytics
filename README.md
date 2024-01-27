@@ -46,4 +46,10 @@ The likesness of data analysts, data engineers, data scientists, etc when it com
 ![Screenshot 2024-01-23 151538](https://github.com/abhinav14kr/Projects_Tableau_PowerBI/assets/139970672/b55a65b6-9d01-4fda-9fae-3321c0d92ce1)
 
 
+4. ANALYZING ADIDAS SALES DATA IN THE UNITED STATES USING EXCEL PIVOT TABLES AND INTERACTIVE DASHBOARD: 
+
+
+
+![Excel_Dashboard](https://github.com/abhinav14kr/Projects_Tableau_PowerBI/assets/139970672/6bbc4841-dfc1-4942-95e1-7a653fadb789)
+
 
